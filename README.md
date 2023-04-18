@@ -1,6 +1,6 @@
 # Golang microservice - Chucknorrisfact 
 
-![image](https://user-images.githubusercontent.com/21112669/232806073-2c1e6d80-ad3f-4432-9a67-0f1fbcbdc4c8.png)
+![image](https://user-images.githubusercontent.com/21112669/232806367-73c44d12-d9ae-4f9f-965e-788ae21462ba.png)
 ![image](https://user-images.githubusercontent.com/21112669/232805641-3d4418c3-3f0b-4786-a428-e740b141fa78.png)
 
 
