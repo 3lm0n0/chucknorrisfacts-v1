@@ -1,15 +1,15 @@
-# chucknorrisfact
+# Chucknorrisfact
 
+# Golang microservice
 
-# golang microservice
-```
+## Description
 microservice that exposes a REST API endpoint, 
 when a client's request is received, our service requests a chuck norris fact 
 to external api, then we process it and return the requested fact.
 We expect to receive data in JSON format.
-```
 
-[![](https://mermaid.ink/img/pako:eNpdkD1uwzAMha9CcHKA-AIeCiT20qFFgHaLMhAS06i1JJeigxRx7l6lMfrHiSA-vke-M9rkGBt8ERoO8NyZCKVW27b3HBU6PnrLO6jru0n4feSssCerE6yr1eZ-ccPXVfBWUma50ouZzkOKmWf8v-K8-Ft4grZ69PGV4Ee53X5PoAY-KUukHman3R-ncpOJuMTAEsi78tT5KmJQDxzYYFNaR_Jm0MRL4WjU9PQRLTYqIy9xHBwpd55KFgGbPfW5TNl5TfJwS-krrMsn_M5mAw?type=png)](https://mermaid.live/edit#pako:eNpdkD1uwzAMha9CcHKA-AIeCiT20qFFgHaLMhAS06i1JJeigxRx7l6lMfrHiSA-vke-M9rkGBt8ERoO8NyZCKVW27b3HBU6PnrLO6jru0n4feSssCerE6yr1eZ-ccPXVfBWUma50ouZzkOKmWf8v-K8-Ft4grZ69PGV4Ee53X5PoAY-KUukHman3R-ncpOJuMTAEsi78tT5KmJQDxzYYFNaR_Jm0MRL4WjU9PQRLTYqIy9xHBwpd55KFgGbPfW5TNl5TfJwS-krrMsn_M5mAw)
+
+[![](https://mermaid.ink/img/pako:eNpdkE1uwkAMha9ieRUkcoEskCCRqi6okOiOYWHNmDJtMhM8TtWKcHcGiNQfr54sf8_2O6ONjrHCN6H-CK-NCZBruatbz0Gh4U9veQ9luRiFTwMnhQNZHWFVLDfPs8f4qniKsPZWYmK5AbMJSH0MiSfiv-nE_vYeoS5efHgn-DGvd1lDCfylLIFamHbs_-zIB5mAc-xYOvIuf3S-4Qb1yB0brLJ0JB8GTbjkORo0br-DxUpl4DkOvSPlxlMOosPqQG3KXXZeo6wfEd2TulwBgspkqQ?type=png)](https://mermaid.live/edit#pako:eNpdkE1uwkAMha9ieRUkcoEskCCRqi6okOiOYWHNmDJtMhM8TtWKcHcGiNQfr54sf8_2O6ONjrHCN6H-CK-NCZBruatbz0Gh4U9veQ9luRiFTwMnhQNZHWFVLDfPs8f4qniKsPZWYmK5AbMJSH0MiSfiv-nE_vYeoS5efHgn-DGvd1lDCfylLIFamHbs_-zIB5mAc-xYOvIuf3S-4Qb1yB0brLJ0JB8GTbjkORo0br-DxUpl4DkOvSPlxlMOosPqQG3KXXZeo6wfEd2TulwBgspkqQ)
 
 # Commands to use the microservice
 ```
